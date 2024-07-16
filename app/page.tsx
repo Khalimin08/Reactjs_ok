@@ -35,7 +35,7 @@ export default function Home() {
           <MovieForms />
           <br />
           <br />
-          <MovieSlide />
+          <MovieSlide /> 
           <br />
         </div>
       </div>
